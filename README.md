@@ -1,4 +1,4 @@
-# Edge-Detection-using-OpenCV
+# Edge-Detection-using-Fourier-Transform
 MA201 Course Project - Semester 3 
 
 • Edge Detection In Images Using Fourier Transform [Aug’21-Nov’21]
