@@ -6,8 +6,7 @@ def DFT(f):
   # we are creating a empty array of 0s of size N
   F = np.zeros(N).astype(np.complex64)
   
-  # creating indices for x, allowing to compute the multiplication using
-  numpy (f*exp)
+  # creating indices for x, allowing to compute the multiplication using numpy (f*exp)
   x = np.arange(N)
 
   # for each frequency 'u', perform vectorial multiplication and sum
