@@ -1,5 +1,5 @@
-# Edge-Detection-using-Fourier-Transform
-MA201 Course Project - Semester 3 
+# Edge-Detection-Using-Fourier-Transform
+Open CV | FFT | IFT | Masking | Windowing
 
 • Edge Detection In Images Using Fourier Transform [Aug’21-Nov’21]
 
